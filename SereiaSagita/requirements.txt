@@ -116,13 +116,6 @@ jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.3
 jupyterlab_widgets==3.0.15
 keyboard==0.13.5
-Kivy==2.3.1
-Kivy-Garden==0.1.5
-kivy-garden.xcamera==2020.613
-kivy-garden.zbarcam==2020.524
-kivy_deps.angle==0.4.0
-kivy_deps.glew==0.3.1
-kivy_deps.sdl2==0.8.0
 kiwisolver==1.4.7
 kthread==0.2.3
 locket==1.0.0
@@ -299,3 +292,4 @@ xyzservices==2025.1.0
 yarl==1.18.3
 zbarcam==2020.524
 zipp==3.21.0
+
